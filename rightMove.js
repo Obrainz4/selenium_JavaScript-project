@@ -78,4 +78,3 @@ async function searchHouseInRightmove() {
 
 searchHouseInRightmove();
 
-// Frame work to test rightmove //
